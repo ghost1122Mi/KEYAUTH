@@ -1,0 +1,25 @@
+{
+  "admin": [
+    {
+      "username": "Adi",
+      "password": "$2y$12$V9DpGFrH4nJzL07efRhEWeBSzru.vqpmY4e3X3ZDCZNHZy7lTkgie",
+      "subscription": "aimkillapk",
+      "expiry": "2028-12-31",
+      "device_id": ""
+    },
+    {
+      "username": "TestUser",
+      "password": "$2y$12$2UcDKZPMyBr3n38oVZb0du2CHZ3Ds/fHf8Dfgv3uKUkfj5WyRuGoW",
+      "subscription": "tester",
+      "expiry": "2026-10-01",
+      "device_id": ""
+    },
+    {
+      "username": "OwnerX",
+      "password": "$2y$12$G3y3q8DZYz5Fd/2QHUG9IO.4k2NNCFV2FqBPz.g02C3GLNHJKUz1C",
+      "subscription": "owner",
+      "expiry": "2099-01-01",
+      "device_id": ""
+    }
+  ]
+}
