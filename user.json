@@ -1,11 +1,11 @@
 {
   "admin": [
     {
-      "username": "test",
-      "password": "$2y$12$Qz4EZuMLG6oHh63i3GhY.eITJvHfYNOhJCrE2XsQZf0FgRn8Y6BxS",
+      "username": "ghost1122",
+      "password": "$2y$12$4nFgV53S6q12nHxVkZtY2eEFrU9jQX8M4XbbS6OwGxjNk8V3AeRAy",
       "device_id": "",
       "subscription": "aimkillapk",
-      "expiry": "2025-12-31"
+      "expiry": "2026-06-30"
     }
   ]
 }
