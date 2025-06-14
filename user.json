@@ -7,6 +7,14 @@
       "subscription": "aimkillapk",
       "token": "A1B2C3D4GHOST1122",
       "expiry": "2026-06-30"
+    },
+    {
+      "username": "newuser01",
+      "password": "$2y$12$OroLwQQGRnAr2q7c/jWROeAmf8DpUSLdfrISrxrfpTf14R9Khv78S",
+      "device_id": "11A0370A61AB3912",
+      "subscription": "aimkillapk",
+      "token": "GHOSTNEW123TOKEN",
+      "expiry": "2026-12-31"
     }
   ]
 }
